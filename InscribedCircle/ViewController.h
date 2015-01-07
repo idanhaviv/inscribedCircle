@@ -12,7 +12,7 @@
 
 @property (nonatomic) CGFloat numberOfQuestions;
 @property (nonatomic) CGFloat numberOfCorrectAnswers;
-@property (strong, nonatomic) NSString *level;
+@property (strong, nonatomic) NSString *rank;
 @property (strong, nonatomic) NSAttributedString *label;
 
 @end
